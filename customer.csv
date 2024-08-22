@@ -1,0 +1,21 @@
+﻿Customer_ID,Customer_Name,Customer_Email,Customer_Phone,Customer_Address,Customer_Segment
+1,John Smith,john.smith@example.com,1234567890,"123 Main St, Anytown, USA",Retail
+2,Jane Doe,jane.doe@example.com,1987654321,"456 Elm St, Othertown, USA",Wholesale
+3,David Lee,david.lee@example.com,1654321890,"789 Oak St, Another Town, USA",Corporate
+4,Emily Wang,emily.wang@example.com,1789456321,"987 Pine St, Somewhere, USA",Retail
+5,Michael Johnson,michael.johnson@example.com,1432987654,"654 Cedar St, Anytown, USA",Wholesale
+6,Sarah Brown,sarah.brown@example.com,1765432987,"321 Birch St, Othertown, USA",Corporate
+7,Robert Garcia,robert.garcia@example.com,1324567890,"852 Maple St, Another Town, USA",Retail
+8,Lisa Kim,lisa.kim@example.com,1678901234,"741 Walnut St, Somewhere, USA",Wholesale
+9,Christopher Nguyen,chris.nguyen@example.com,1890765432,"963 Pineapple St, Anytown, USA",Corporate
+10,Amanda Rodriguez,amanda.rodriguez@example.com,1789054321,"258 Orange St, Othertown, USA",Retail
+11,Daniel Martinez,daniel.martinez@example.com,1321567890,"369 Grape St, Another Town, USA",Wholesale
+12,Jessica Hernandez,jessica.hernandez@example.com,1987654321,"147 Banana St, Somewhere, USA",Corporate
+13,Ryan Patel,ryan.patel@example.com,1765432987,"753 Lemon St, Anytown, USA",Retail
+14,Michelle Smith,michelle.smith@example.com,1432987654,"159 Lime St, Othertown, USA",Wholesale
+15,Andrew Wilson,andrew.wilson@example.com,1324567890,"357 Strawberry St, Another Town, USA",Corporate
+16,Olivia Nguyen,olivia.nguyen@example.com,1678901234,"753 Cherry St, Somewhere, USA",Retail
+17,Ethan Brown,ethan.brown@example.com,1890765432,"951 Blueberry St, Anytown, USA",Wholesale
+18,Sophia Lee,sophia.lee@example.com,1789054321,"852 Raspberry St, Othertown, USA",Corporate
+19,William Garcia,william.garcia@example.com,1321567890,"963 Mango St, Another Town, USA",Retail
+20,Mia Kim,mia.kim@example.com,1987654321,"741 Papaya St, Somewhere, USA",Wholesale

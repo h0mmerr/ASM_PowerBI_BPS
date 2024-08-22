@@ -1,0 +1,21 @@
+﻿Access_ID,Customer_ID,Access_DateTime,Access_Page,Access_Duration,Access_Source
+1,1,2/1/2024 8:15,/products/smart-tv,120,Direct
+2,2,2/1/2024 10:30,/products/smartphone,180,Referral
+3,3,2/2/2024 13:45,/products/digital-camera,90,Organic Search
+4,4,2/3/2024 9:20,/products/wireless-speaker,150,Direct
+5,5,2/3/2024 11:55,/products/smart-home-device,210,Referral
+6,6,2/4/2024 14:10,/products/wireless-router,180,Organic Search
+7,7,2/5/2024 8:45,/products/printer,120,Direct
+8,8,2/5/2024 12:20,/products/wireless-earbuds,150,Referral
+9,9,2/6/2024 15:35,/products/virtual-reality-headset,90,Organic Search
+10,10,2/7/2024 9:50,/products/portable-charger,180,Direct
+11,11,2/8/2024 11:05,/products/laptop,120,Referral
+12,12,2/8/2024 13:30,/products/tablet,150,Organic Search
+13,13,2/9/2024 10:15,/products/headphones,180,Direct
+14,14,2/9/2024 12:40,/products/fitness-tracker,120,Referral
+15,15,2/10/2024 14:55,/products/computer-monitor,150,Organic Search
+16,16,2/11/2024 8:30,/products/external-hard-drive,180,Direct
+17,17,2/11/2024 11:00,/products/smart-watch,120,Referral
+18,18,2/12/2024 13:25,/products/drone,150,Organic Search
+19,19,2/13/2024 9:40,/products/security-camera,180,Direct
+20,20,2/13/2024 12:05,/products/smart-tv,120,Referral

@@ -1,0 +1,21 @@
+﻿Product_ID,Product_Name,Product_Category,Product_Description,Unit_Price,Supplier_ID
+1,Smart TV,Electronics,"4K Ultra HD Smart TV, 55 inch",899.99,1
+2,Laptop,Electronics,"High-performance Laptop, 15.6 inch",1299.99,2
+3,Smartphone,Electronics,Latest Smartphone Model,799.99,3
+4,Tablet,Electronics,"Lightweight Tablet, 10 inch",499.99,4
+5,Digital Camera,Electronics,DSLR Camera Kit,699.99,5
+6,Headphones,Electronics,Noise-Canceling Headphones,149.99,6
+7,Gaming Console,Electronics,Next-Gen Gaming Console,499.99,7
+8,Wireless Speaker,Electronics,Portable Bluetooth Speaker,79.99,8
+9,Fitness Tracker,Electronics,Activity Tracker,99.99,9
+10,Smart Home Device,Electronics,Voice-Activated Smart Home Device,199.99,10
+11,Computer Monitor,Electronics,"High-Resolution Monitor, 27 inch",349.99,11
+12,Wireless Router,Electronics,High-Speed Wireless Router,79.99,12
+13,External Hard Drive,Electronics,Portable External Hard Drive,129.99,13
+14,Printer,Electronics,All-in-One Printer,199.99,14
+15,Smart Watch,Electronics,Fitness Tracking Smart Watch,299.99,15
+16,Wireless Earbuds,Electronics,True Wireless Earbuds,129.99,16
+17,Drone,Electronics,HD Camera Drone,599.99,17
+18,Virtual Reality Headset,Electronics,Immersive VR Headset,399.99,18
+19,Portable Charger,Electronics,Power Bank Portable Charger,49.99,19
+20,Security Camera,Electronics,Outdoor Security Camera,149.99,20
